@@ -75,6 +75,8 @@ background-repeat: no-repeat;
   height: 300px;
   margin: 10px;;
   padding: 0 1rem;
+  font-weight: 700;
+
   
   position: relative;
   top: 5%;
@@ -91,9 +93,9 @@ margin: 1rem auto;
 
 .description{
   position:relative;
-  right:-90%;
+  right:-3%;
   transform-origin: 0 0;
-  transform: rotate(269deg)
+  
 }
 
 .app .bottom{
